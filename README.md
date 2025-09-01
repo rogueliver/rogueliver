@@ -43,6 +43,6 @@ I'm a **Software Engineer** primarily working on Websites and Minecraft tools, f
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rogueliver/rogueliver/output/snake.svg" alt="Snake animation" />
 
 ###
