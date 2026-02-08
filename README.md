@@ -30,5 +30,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rogueliver&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />/>
+  <img src="https://streak-stats.demolab.com?user=rogueliver&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
