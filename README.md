@@ -30,14 +30,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rogueliver&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rogueliver&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=rogueliver&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />/>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogueliver/rogueliver/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogueliver/rogueliver/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rogueliver/rogueliver/output/pacman-contribution-graph.svg">
-</picture>
